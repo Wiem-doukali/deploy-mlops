@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2025-11-29T16:23:55.506194",
+    "user_input": "\n7eseseya",
+    "symptoms_detected": [],
+    "predictions": [],
+    "response_preview": "**Je note votre description.** 🤔\n\nJe n'ai pas pu identifier clairement des symptômes spécifiques. \nP..."
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-11-29T16:24:21.889478",
+    "user_input": "\ngorge",
+    "symptoms_detected": [
+      "gorge"
+    ],
+    "predictions": [
+      {
+        "disease": "angine",
+        "confidence": 0.4370127350933678
+      }
+    ],
+    "response_preview": "**Merci pour votre description.** 🩺\n\nVoici mon analyse préliminaire basée sur vos symptômes :\n\n---\n\n..."
+  },
+  {
+    "id": 3,
+    "timestamp": "2025-11-29T16:26:55.823745",
+    "user_input": "\ngorge",
+    "symptoms_detected": [
+      "gorge"
+    ],
+    "predictions": [
+      {
+        "disease": "angine",
+        "confidence": 0.4370127350933678
+      }
+    ],
+    "response_preview": "**Merci pour votre description.** 🩺\n\nVoici mon analyse préliminaire basée sur vos symptômes :\n\n---\n\n..."
+  },
+  {
+    "id": 4,
+    "timestamp": "2025-11-29T16:38:04.877832",
+    "user_input": "gorge , mal tete",
+    "symptoms_detected": [
+      "mal",
+      "gorge",
+      "mal de gorge"
+    ],
+    "predictions": [
+      {
+        "disease": "angine",
+        "confidence": 0.6746931445249134
+      }
+    ],
+    "response_preview": "**Merci pour votre description.**\n\nVoici mon analyse préliminaire basée sur vos symptômes :\n\n---\n\n**..."
+  },
+  {
+    "id": 5,
+    "timestamp": "2025-11-29T16:39:31.830490",
+    "user_input": "fatigue",
+    "symptoms_detected": [
+      "fatigue"
+    ],
+    "predictions": [
+      {
+        "disease": "bronchite",
+        "confidence": 0.3641638052611447
+      },
+      {
+        "disease": "grippe",
+        "confidence": 0.32854593454700837
+      },
+      {
+        "disease": "sinusite",
+        "confidence": 0.2835146882335203
+      }
+    ],
+    "response_preview": "**Merci pour votre description.**\n\nVoici mon analyse préliminaire basée sur vos symptômes :\n\n---\n\n**..."
+  },
+  {
+    "id": 6,
+    "timestamp": "2025-11-29T16:50:48.963435",
+    "user_input": "tete et gorge",
+    "symptoms_detected": [
+      "gorge"
+    ],
+    "predictions": [
+      {
+        "disease": "angine",
+        "confidence": 0.4370127350933678
+      }
+    ],
+    "response_preview": "**Merci pour votre description.**\n\nVoici mon analyse préliminaire basée sur vos symptômes :\n\n---\n\n**..."
+  },
+  {
+    "id": 7,
+    "timestamp": "2025-11-29T17:02:03.753674",
+    "user_input": "tete",
+    "symptoms_detected": [],
+    "predictions": [],
+    "response_preview": "**Je note votre description.** 🤔\n\nJe n'ai pas pu identifier clairement des symptômes spécifiques. \nP..."
+  },
+  {
+    "id": 8,
+    "timestamp": "2025-11-29T17:03:45.840862",
+    "user_input": "tete",
+    "symptoms_detected": [],
+    "predictions": [],
+    "response_preview": "**Je note votre description.** 🤔\n\nJe n'ai pas pu identifier clairement des symptômes spécifiques. \nP..."
+  },
+  {
+    "id": 9,
+    "timestamp": "2025-11-29T17:04:03.000853",
+    "user_input": "mal gorge",
+    "symptoms_detected": [
+      "mal",
+      "gorge",
+      "mal de gorge"
+    ],
+    "predictions": [
+      {
+        "disease": "angine",
+        "confidence": 0.6746931445249134
+      }
+    ],
+    "response_preview": "**Merci pour votre description.**\n\nVoici mon analyse préliminaire basée sur vos symptômes :\n\n---\n\n**..."
+  },
+  {
+    "id": 10,
+    "timestamp": "2025-11-29T17:04:48.334217",
+    "user_input": "mal gorge",
+    "symptoms_detected": [
+      "mal",
+      "gorge",
+      "mal de gorge"
+    ],
+    "predictions": [
+      {
+        "disease": "angine",
+        "confidence": 0.6746931445249134
+      }
+    ],
+    "response_preview": "**Merci pour votre description.**\n\nVoici mon analyse préliminaire basée sur vos symptômes :\n\n---\n\n**..."
+  },
+  {
+    "id": 11,
+    "timestamp": "2025-11-29T17:14:18.934022",
+    "user_input": "crise cardial",
+    "symptoms_detected": [],
+    "predictions": [],
+    "response_preview": "**Je note votre description.** 🤔\n\nJe n'ai pas pu identifier clairement des symptômes spécifiques. \nP..."
+  },
+  {
+    "id": 12,
+    "timestamp": "2025-11-29T17:16:16.882112",
+    "user_input": "crise cardial",
+    "symptoms_detected": [],
+    "predictions": [],
+    "response_preview": "**Je note votre description.** 🤔\n\nJe n'ai pas pu identifier clairement des symptômes spécifiques. \nP..."
+  },
+  {
+    "id": 13,
+    "timestamp": "2025-11-29T17:16:28.349325",
+    "user_input": "gorge",
+    "symptoms_detected": [
+      "gorge"
+    ],
+    "predictions": [
+      {
+        "disease": "angine",
+        "confidence": 0.4370127350933678
+      }
+    ],
+    "response_preview": "**Merci pour votre description.**\n\nVoici mon analyse préliminaire basée sur vos symptômes :\n\n---\n\n**..."
+  },
+  {
+    "id": 14,
+    "timestamp": "2025-11-29T17:26:32.026142",
+    "user_input": "fatigue ,mal de tete et haute  temeperature ",
+    "symptoms_detected": [
+      "fatigue",
+      "mal"
+    ],
+    "predictions": [
+      {
+        "disease": "angine",
+        "confidence": 0.36638863022475865
+      },
+      {
+        "disease": "bronchite",
+        "confidence": 0.19849311457726052
+      },
+      {
+        "disease": "grippe",
+        "confidence": 0.17907904324310023
+      }
+    ],
+    "response_preview": "**Merci pour votre description.**\n\nVoici mon analyse préliminaire basée sur vos symptômes :\n\n---\n\n**..."
+  },
+  {
+    "id": 15,
+    "timestamp": "2025-11-29T17:51:26.289228",
+    "user_input": "gorge et mal oreil",
+    "symptoms_detected": [
+      "gorge",
+      "mal",
+      "mal de gorge"
+    ],
+    "predictions": [
+      {
+        "disease": "angine",
+        "confidence": 0.6746931445249134
+      }
+    ],
+    "response_preview": "**Merci pour votre description.**\n\nVoici mon analyse préliminaire basée sur vos symptômes :\n\n---\n\n**..."
+  },
+  {
+    "id": 16,
+    "timestamp": "2025-11-29T19:01:20.228436",
+    "user_input": "gorge",
+    "symptoms_detected": [
+      "gorge"
+    ],
+    "predictions": [
+      {
+        "disease": "angine",
+        "confidence": 0.4370127350933678
+      }
+    ],
+    "response_preview": "**Merci pour votre description.**\n\nVoici mon analyse préliminaire basée sur vos symptômes :\n\n---\n\n**..."
+  },
+  {
+    "id": 17,
+    "timestamp": "2025-12-01T06:27:50.279624",
+    "user_input": "gorge",
+    "symptoms_detected": [
+      "gorge"
+    ],
+    "predictions": [
+      {
+        "disease": "angine",
+        "confidence": 0.4370127350933678
+      }
+    ],
+    "response_preview": "**Merci pour votre description.**\n\nVoici mon analyse préliminaire basée sur vos symptômes :\n\n---\n\n**..."
+  },
+  {
+    "id": 18,
+    "timestamp": "2025-12-01T11:58:49.982782",
+    "user_input": "gorge",
+    "symptoms_detected": [
+      "gorge"
+    ],
+    "predictions": [
+      {
+        "disease": "angine",
+        "confidence": 0.4370127350933678
+      }
+    ],
+    "response_preview": "**Merci pour votre description.**\n\nVoici mon analyse préliminaire basée sur vos symptômes :\n\n---\n\n**..."
+  },
+  {
+    "id": 19,
+    "timestamp": "2025-12-01T12:11:19.549017",
+    "user_input": "rhume",
+    "symptoms_detected": [
+      "rhume"
+    ],
+    "predictions": [],
+    "response_preview": "**Je note votre description.** \n\nJe n'ai pas pu identifier clairement des symptômes spécifiques. \nPo..."
+  },
+  {
+    "id": 20,
+    "timestamp": "2025-12-08T14:53:38.888855",
+    "user_input": "mal  gorge",
+    "symptoms_detected": [
+      "mal de gorge",
+      "mal",
+      "gorge"
+    ],
+    "predictions": [
+      {
+        "disease": "angine",
+        "confidence": 0.5471462322834985
+      },
+      {
+        "disease": "rhume",
+        "confidence": 0.12189768452461769
+      }
+    ],
+    "response_preview": "**Merci pour votre description détaillée.**\n\nJ'ai identifié **3 symptôme(s)** et voici mon analyse préliminaire :\n\n**Symptômes détectés :**\n• mal de gorge\n• mal\n• gorge\n\n**Analyses possibles (par ordr..."
+  },
+  {
+    "id": 21,
+    "timestamp": "2025-12-08T14:54:02.491947",
+    "user_input": "mal  gorge",
+    "symptoms_detected": [
+      "mal de gorge",
+      "mal",
+      "gorge"
+    ],
+    "predictions": [
+      {
+        "disease": "angine",
+        "confidence": 0.5471462322834985
+      },
+      {
+        "disease": "rhume",
+        "confidence": 0.12189768452461769
+      }
+    ],
+    "response_preview": "**Merci pour votre description détaillée.**\n\nJ'ai identifié **3 symptôme(s)** et voici mon analyse préliminaire :\n\n**Symptômes détectés :**\n• mal de gorge\n• mal\n• gorge\n\n**Analyses possibles (par ordr..."
+  }
+]

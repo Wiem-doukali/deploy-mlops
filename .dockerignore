@@ -1,0 +1,37 @@
+# .dockerignore
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+myenv/
+venv/
+.venv
+*.egg-info/
+.pytest_cache/
+.git
+.gitignore
+README.md
+.env
+*.log
+.DS_Store
+.vscode/
+.vscode/*
+!vscode/settings.json
+!vscode/extensions.json
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*.bak
+
+# Fichiers de données volumineux (si nécessaire)
+# data/large_files/
+
+# Fichiers de configuration locaux
+config.local.yaml
+secrets/
+
+# Docker
+docker-compose.override.yml
+Dockerfile.dev

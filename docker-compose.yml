@@ -1,0 +1,28 @@
+# docker-compose.yml
+version: '3.8'
+
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - PYTHONUNBUFFERED=1
+      - WHISPER_MODEL=base
+      - ENABLE_WHISPER=true
+    volumes:
+      - ./data:/app/data
+      - ./model:/app/model
+      - ./mlruns:/app/mlruns
+    restart: unless-stopped
+
+  mlflow:
+    image: ghcr.io/mlflow/mlflow:v2.8.1
+    ports:
+      - "5000:5000"
+    command: mlflow server --host 0.0.0.0 --port 5000
+    volumes:
+      - ./mlruns:/mlruns
+    environment:
+      - MLFLOW_TRACKING_URI=http://localhost:5000
+    restart: unless-stopped

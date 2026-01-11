@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dell/deploy-mlops/mlruns/823813545787268586/f388bd43bb9e441a83debc634e46d83c/artifacts
+end_time: 1767645345250
+entry_point_name: ''
+experiment_id: '823813545787268586'
+lifecycle_stage: active
+run_id: f388bd43bb9e441a83debc634e46d83c
+run_name: medical-model-20260105-2135
+run_uuid: f388bd43bb9e441a83debc634e46d83c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767645331535
+status: 3
+tags: []
+user_id: dell

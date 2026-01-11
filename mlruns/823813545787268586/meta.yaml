@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/dell/deploy-mlops/mlruns/823813545787268586
+creation_time: 1767645330820
+experiment_id: '823813545787268586'
+last_update_time: 1767645330820
+lifecycle_stage: active
+name: medical-diagnosis-prediction

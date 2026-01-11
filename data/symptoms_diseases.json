@@ -1,0 +1,98 @@
+{
+    "rhume": {
+        "symptoms": ["nez qui coule", "éternuements", "nez bouché", "gorge irritée", "fatigue légère"],
+        "severity": "légère",
+        "advice": "Reposez-vous, buvez beaucoup de liquides, utilisez des solutions salines nasales. Consultez si les symptômes persistent plus de 10 jours.",
+        "treatment": "Traitement symptomatique"
+    },
+    "grippe": {
+        "symptoms": ["fièvre", "frissons", "courbatures", "fatigue", "toux sèche", "maux de tête"],
+        "severity": "modérée",
+        "advice": "Repos strict, hydratation importante, antipyrétiques si nécessaire. Consultez un médecin pour confirmation.",
+        "treatment": "Traitement symptomatique, antiviraux si prescrits"
+    },
+    "angine": {
+        "symptoms": ["mal de gorge", "difficulté à avaler", "fièvre", "ganglions", "fatigue"],
+        "severity": "modérée",
+        "advice": "Consultez un médecin pour déterminer si elle est virale ou bactérienne. Gargarismes à l'eau salée, pastilles pour la gorge.",
+        "treatment": "Antibiotiques si bactérienne, traitement symptomatique"
+    },
+    "gastro-entérite": {
+        "symptoms": ["nausées", "vomissements", "diarrhée", "crampes abdominales", "fièvre"],
+        "severity": "modérée",
+        "advice": "Diète hydrique (eau, bouillon, soda plat), repos digestif. Consultez en cas de signes de déshydratation.",
+        "treatment": "Réhydratation, traitement symptomatique"
+    },
+    "bronchite": {
+        "symptoms": ["toux", "expectorations", "essoufflement", "fièvre légère", "fatigue"],
+        "severity": "modérée",
+        "advice": "Repos, humidifiez l'air, buvez des boissons chaudes. Consultez si la toux persiste plus de 3 semaines.",
+        "treatment": "Traitement symptomatique, parfois bronchodilatateurs"
+    },
+    "sinusite": {
+        "symptoms": ["douleur faciale", "nez bouché", "écoulement nasal", "maux de tête", "fièvre"],
+        "severity": "légère",
+        "advice": "Inhalations de vapeur, lavages nasaux. Consultez si les symptômes persistent plus de 10 jours.",
+        "treatment": "Décongestionnants, parfois antibiotiques"
+    },
+    "migraine": {
+        "symptoms": ["maux de tête sévères", "nausées", "sensibilité à la lumière", "sensibilité au bruit"],
+        "severity": "modérée",
+        "advice": "Repos dans une pièce sombre et calme. Évitez les déclencheurs connus. Consultez pour un traitement préventif si fréquent.",
+        "treatment": "Analgésiques, triptans, traitement préventif"
+    },
+    "allergie": {
+        "symptoms": ["éternuements", "nez qui coule", "yeux qui piquent", "démangeaisons", "congestion nasale"],
+        "severity": "légère",
+        "advice": "Évitez les allergènes connus, utilisez des antihistaminiques. Consultez un allergologue pour identification des allergènes.",
+        "treatment": "Antihistaminiques, corticostéroïdes nasaux"
+    },
+    "pneumonie": {
+        "symptoms": ["fièvre élevée", "toux productive", "difficulté à respirer", "douleur thoracique", "fatigue intense"],
+        "severity": "urgente",
+        "advice": "CONSULTEZ UN MÉDECIN URGENCEMMENT. Peut nécessiter une hospitalisation.",
+        "treatment": "Antibiotiques, parfois oxygénothérapie"
+    },
+    "appendicite": {
+        "symptoms": ["douleur abdominale sévère", "nausées", "vomissements", "fièvre", "perte d'appétit"],
+        "severity": "critique",
+        "advice": "URGENCE MÉDICALE - COMPOSEZ LE 15 IMMÉDIATEMENT. Ne prenez aucun aliment ni médicament.",
+        "treatment": "Intervention chirurgicale"
+    },
+    "crise d'asthme": {
+        "symptoms": ["difficulté à respirer", "oppression thoracique", "toux", "sifflements respiratoires"],
+        "severity": "urgente",
+        "advice": "Utilisez votre traitement de secours. Si pas d'amélioration en 10 minutes, appelez le 15.",
+        "treatment": "Bronchodilatateurs, corticostéroïdes"
+    },
+    "infarctus": {
+        "symptoms": ["douleur thoracique", "essoufflement", "nausées", "transpiration", "douleur bras gauche"],
+        "severity": "critique",
+        "advice": "URGENCE ABSOLUE - COMPOSEZ LE 15 IMMÉDIATEMENT. Ne conduisez pas vous-même.",
+        "treatment": "Traitement en urgence, parfois intervention coronarienne"
+    },
+    "AVC": {
+        "symptoms": ["paralysie faciale", "faiblesse d'un côté", "troubles de la parole", "maux de tête violents"],
+        "severity": "critique",
+        "advice": "URGENCE ABSOLUE - COMPOSEZ LE 15 IMMÉDIATEMENT. Notez l'heure d'apparition des symptômes.",
+        "treatment": "Traitement en urgence, thrombolyse si indiqué"
+    },
+    "infection urinaire": {
+        "symptoms": ["brûlures urinaires", "envie fréquente", "douleur bas ventre", "urines troubles"],
+        "severity": "modérée",
+        "advice": "Buvez beaucoup d'eau. Consultez un médecin pour traitement antibiotique.",
+        "treatment": "Antibiotiques, antalgiques urinaires"
+    },
+    "arthrite": {
+        "symptoms": ["douleur articulation", "raideur matinale", "gonflement articulation", "rougeur"],
+        "severity": "modérée",
+        "advice": "Consultez un rhumatologue. Appliquez du froid sur les articulations enflammées.",
+        "treatment": "Anti-inflammatoires, parfois traitements de fond"
+    },
+    "déshydratation": {
+        "symptoms": ["soif intense", "bouche sèche", "urines foncées", "fatigue", "étourdissements"],
+        "severity": "modérée",
+        "advice": "Buvez de l'eau régulièrement, solutions de réhydratation orale. Consultez si vomissements empêchent de boire.",
+        "treatment": "Réhydratation orale ou intraveineuse"
+    }
+}
